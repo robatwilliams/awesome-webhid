@@ -26,11 +26,11 @@
 
 
 ## Blogs & articles
-None yet :construction:
+None yet.
 
 
 ## Talks & videos
-None yet :construction:
+None yet.
 
 
 ## Devices
@@ -62,11 +62,11 @@ None yet :construction:
 
 
 ## Demos, experiments & hacks
-None yet :construction:
+None yet.
 
 
 ## Real-world applications
-None yet :construction:
+None yet.
 
 
 ## Inspiration from elsewhere
@@ -79,7 +79,7 @@ None yet :construction:
 ## Ideas
 *Great idea, no time or no device? File an issue to share.*
 
-None yet :construction:
+None yet.
 
 
 ## Forums & discussion
@@ -88,7 +88,7 @@ None yet :construction:
 
 
 ## Miscellaneous
-None yet :construction:
+None yet.
 
 
 ## Related
