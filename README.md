@@ -38,6 +38,9 @@
 ## Tools
 *Software that aids working with devices.*
 
+* [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - view device information
+* [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - view device information including interface and HID descriptors
+
 
 ## Bluetooth, USB, & HID reference
 * [Human Interface Device Profile specification](https://www.bluetooth.com/specifications/profiles-overview) (Bluetooth Special Interest Group (SIG))
