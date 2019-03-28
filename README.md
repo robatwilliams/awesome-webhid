@@ -43,8 +43,8 @@
 
 
 ## Bluetooth, USB, & HID reference
-* [Human Interface Device Profile specification](https://www.bluetooth.com/specifications/profiles-overview) (Bluetooth Special Interest Group (SIG))
-* [Human Interface Devices (HID) Information](https://www.usb.org/hid) (USB Implementers Forum (USB-IF))
+* [Human Interface Devices (HID) Information](https://www.usb.org/hid) (USB Implementers Forum (USB-IF)) - including the device class definition, and usage tables
+* [Human Interface Device Profile specification](https://www.bluetooth.com/specifications/profiles-overview) (Bluetooth Special Interest Group (SIG)) - "an adaptation of the USB HID Specification to operate over a Bluetooth wireless link"
 
 
 ## Demos, experiments & hacks
