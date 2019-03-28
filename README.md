@@ -74,6 +74,7 @@ None yet.
 
 * [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) - a generic input/output Chrome App sample
 * [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) - a Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED
+* [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - using a Chrome App as a go-between between a dictation foot pedal and a web application (2015)
 
 
 ## Ideas
