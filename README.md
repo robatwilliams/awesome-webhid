@@ -14,6 +14,7 @@
 - [Real-world applications](#real-world-applications)
 - [Inspiration from elsewhere](#inspiration-from-elsewhere)
 - [Ideas](#ideas)
+- [Forums & discussion](#forums--discussion)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -55,6 +56,11 @@
 
 ## Ideas
 *Great idea, no time or no device? File an issue to share.*
+
+
+## Forums & discussion
+* [Human Interface Device (HID) API](https://discourse.wicg.io/t/human-interface-device-hid-api/3070) (WICG Discourse)
+* [Intent to Implement: WebHID (Human Interface Device)](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/OaDCpCaEe_4/3taK3m75DAAJ) (chromium.org blink-dev)
 
 
 ## Miscellaneous
