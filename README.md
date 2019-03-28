@@ -32,7 +32,14 @@
 
 
 ## Devices
-*Devices that work well with WebHID. Do also file an issue to inform others of devices that don't.*
+*Devices that work well with WebHID. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
+
+
+### Candidates
+* [Blink(1)](https://blink1.thingm.com) - notification light (see [node-blink1](https://github.com/sandeepmistry/node-blink1))
+* [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see [blinkstick-node](https://github.com/arvydas/blinkstick-node))
+* [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
+* [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html))
 
 
 ## Tools
