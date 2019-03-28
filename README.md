@@ -26,9 +26,11 @@
 
 
 ## Blogs & articles
+None yet :construction:
 
 
 ## Talks & videos
+None yet :construction:
 
 
 ## Devices
@@ -56,9 +58,11 @@
 
 
 ## Demos, experiments & hacks
+None yet :construction:
 
 
 ## Real-world applications
+None yet :construction:
 
 
 ## Inspiration from elsewhere
@@ -71,6 +75,8 @@
 ## Ideas
 *Great idea, no time or no device? File an issue to share.*
 
+None yet :construction:
+
 
 ## Forums & discussion
 * [Human Interface Device (HID) API](https://discourse.wicg.io/t/human-interface-device-hid-api/3070) (WICG Discourse)
@@ -78,6 +84,7 @@
 
 
 ## Miscellaneous
+None yet :construction:
 
 
 ## Related
