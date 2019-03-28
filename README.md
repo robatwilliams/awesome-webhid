@@ -56,6 +56,9 @@
 ## Inspiration from elsewhere
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) - a generic input/output Chrome App sample
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) - a Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED
+
 
 ## Ideas
 *Great idea, no time or no device? File an issue to share.*
