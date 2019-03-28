@@ -12,6 +12,7 @@
 - [Bluetooth, USB, & HID reference](#bluetooth-usb--hid-reference)
 - [Demos, experiments & hacks](#demos-experiments--hacks)
 - [Real-world applications](#real-world-applications)
+- [Inspiration from elsewhere](#inspiration-from-elsewhere)
 - [Ideas](#ideas)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
@@ -44,6 +45,10 @@
 
 
 ## Real-world applications
+
+
+## Inspiration from elsewhere
+*Transferrable inspiration from related areas such as general USB HID, Web Bluetooth, and WebUSB.*
 
 
 ## Ideas
