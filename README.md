@@ -18,7 +18,9 @@
 
 
 ## Specification & documentation
-
+* [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG))
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md)
+* [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 
 ## Blogs & articles
 
