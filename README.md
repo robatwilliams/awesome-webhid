@@ -21,7 +21,6 @@
 ## Specification & documentation
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG))
 * [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md)
-* [Human Interface Devices (HID) Information](https://www.usb.org/hid) (USB Implementers Forum (USB-IF))
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 
 
@@ -40,6 +39,8 @@
 
 
 ## Bluetooth, USB, & HID reference
+* [Human Interface Device Profile specification](https://www.bluetooth.com/specifications/profiles-overview) (Bluetooth Special Interest Group (SIG))
+* [Human Interface Devices (HID) Information](https://www.usb.org/hid) (USB Implementers Forum (USB-IF))
 
 
 ## Demos, experiments & hacks
@@ -49,7 +50,7 @@
 
 
 ## Inspiration from elsewhere
-*Transferrable inspiration from related areas such as general USB HID, Web Bluetooth, and WebUSB.*
+*Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
 
 ## Ideas
