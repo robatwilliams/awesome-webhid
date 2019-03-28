@@ -53,6 +53,8 @@
 
 
 ## Related
+* [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API) - MDN
+* [WebUSB API](https://developer.mozilla.org/en-US/docs/Web/API/USB) - MDN
 
 
 ## License
