@@ -8,6 +8,7 @@ WebHID is a browser API (`navigator.hid`) that provides access to HID input/outp
 
 
 ## Contents
+- [Status](#status)
 - [Specification & documentation](#specification--documentation)
 - [Blogs & articles](#blogs--articles)
 - [Talks & videos](#talks--videos)
@@ -21,6 +22,12 @@ WebHID is a browser API (`navigator.hid`) that provides access to HID input/outp
 - [Forums & discussion](#forums--discussion)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+
+
+## Status
+In development (Chromium) as of 29 March 2019:
+* Target version 75 (branch point 18 April, estimated stable release 4 June)
+* Release version 78 (branch point 5 September, estimated stable release 22 October)
 
 
 ## Specification & documentation
