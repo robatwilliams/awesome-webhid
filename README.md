@@ -112,6 +112,7 @@ None yet.
 * [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API) - MDN
 * [WebUSB API](https://developer.mozilla.org/en-US/docs/Web/API/USB) - MDN
 * [chrome.hid API](https://developers.chrome.com/apps/hid) for Chrome Apps
+* Web Serial API - [specification](https://wicg.github.io/serial) (WICG), [discussion](https://discourse.wicg.io/t/serial-api-moving-from-web-of-sensors-cg-to-web-incubator-cg/2940), and [implementation tracking bug](https://bugs.chromium.org/p/chromium/issues/detail?id=884928)
 
 
 ## License
