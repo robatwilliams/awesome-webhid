@@ -63,7 +63,10 @@ None yet.
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
 * [Espruino Pico](https://www.espruino.com/Pico) board - has an [USB HID mode](https://www.espruino.com/USB), might also be useful as an emulator?
 * Jabra headsets (see [Standard USB HID Specification](https://developer.jabra.com/site/global/sdks/web/index.gsp))
+* Nintendo Switch Pro Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
+* Sony DualShock 3 & 4<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 * [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html), [Integration](https://xkeys.com/software/developer/developerintegration.html))
+* Xbox Wireless Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 
 
 ## Tools
