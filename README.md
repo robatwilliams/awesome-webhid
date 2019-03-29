@@ -79,7 +79,7 @@ None yet.
 * [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) - a Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - using a Chrome App as a go-between between a dictation foot pedal and a web application (2015)
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) (Web Bluetooth Community Group) - various, plus links to others
-* [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) using WebUSB
+* [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) - using WebUSB
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) - despite the name, most directly use low-level read/write operations rather than HID abstractions
 
 
