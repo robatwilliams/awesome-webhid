@@ -61,6 +61,7 @@ None yet.
 * [Blink(1)](https://blink1.thingm.com) - notification light (see [node-blink1](https://github.com/sandeepmistry/node-blink1))
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see [blinkstick-node](https://github.com/arvydas/blinkstick-node))
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
+* [Espruino Pico](https://www.espruino.com/Pico) board - has an [USB HID mode](https://www.espruino.com/USB)
 * Jabra headsets (see [Standard USB HID Specification](https://developer.jabra.com/site/global/sdks/web/index.gsp))
 * [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html), [Integration](https://xkeys.com/software/developer/developerintegration.html))
 
