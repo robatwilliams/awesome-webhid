@@ -2,6 +2,8 @@
 
 > Curated list of resources relating to the WebHID (Human Interface Device) API
 
+[Contribution guidelines](contributing.md)
+
 
 ## Contents
 - [Specification & documentation](#specification--documentation)
