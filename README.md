@@ -70,8 +70,8 @@ None yet.
 
 * [Human Interface Devices (HID) Information](https://www.usb.org/hid) (USB Implementers Forum (USB-IF)) - including the device class definition, and usage tables
 * [Human Interface Device Profile specification](https://www.bluetooth.com/specifications/profiles-overview) (Bluetooth Special Interest Group (SIG)) - "an adaptation of the USB HID Specification to operate over a Bluetooth wireless link"
-* [A Closer Look at HID Class](https://www.tracesystemsinc.com/USB_Tutorials_web/USB/B1_USB_Classes/Books/A3_A_Closer_Look_at_HID_Class/slide01.htm)
-* [Understanding HID report descriptors](https://who-t.blogspot.com/2018/12/understanding-hid-report-descriptors.html)
+* [A Closer Look at HID Class](https://www.tracesystemsinc.com/USB_Tutorials_web/USB/B1_USB_Classes/Books/A3_A_Closer_Look_at_HID_Class/slide01.htm) - an explanation of USB HID, with enough detail yet easy to follow
+* [Understanding HID report descriptors](https://who-t.blogspot.com/2018/12/understanding-hid-report-descriptors.html) - understanding devices' descriptions of themselves
 
 
 ## Demos, experiments & hacks
