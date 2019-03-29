@@ -54,7 +54,7 @@ None yet.
 
 
 ## Devices
-*Devices that work well with WebHID. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
+*Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
 
 
 ### Candidates
