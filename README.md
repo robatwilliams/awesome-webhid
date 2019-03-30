@@ -4,7 +4,7 @@
 
 WebHID is a browser API (`navigator.hid`) that provides access to HID input/output devices. It's a higher level of abstraction than the WebUSB and Web Bluetooth APIs, but lower than the Gamepad API and basic input (pointer/keyboard).
 
-[Contribution guidelines](contributing.md)
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. See [contribution guidelines](contributing.md).
 
 
 ## Contents
