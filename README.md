@@ -72,9 +72,9 @@ None yet.
 ## Tools
 *Software that aids working with devices.*
 
-* [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - view device information
-* [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - view device information including interface and HID descriptors
-* [node-hid](https://github.com/node-hid/node-hid) - cross-platform library for accessing USB HID devices from Node.js or Electron
+* [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - View device information.
+* [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - View device information including interface and HID descriptors.
+* [node-hid](https://github.com/node-hid/node-hid) - Cross-platform library for accessing USB HID devices from Node.js or Electron.
 
 
 ## Bluetooth, USB, & HID reference
