@@ -65,7 +65,7 @@ None yet.
 * Jabra headsets (see [Standard USB HID Specification](https://developer.jabra.com/site/global/sdks/web/index.gsp))
 * Nintendo Switch Pro Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 * Sony DualShock 3 & 4<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
-* [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html), [Integration](https://xkeys.com/software/developer/developerintegration.html))
+* [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html), [Integration](https://xkeys.com/software/developer/developerintegration.html), [xkeys](https://github.com/SuperFlyTV/xkeys), [node-xkeys](https://github.com/macoss/node-xkeys))
 * Xbox Wireless Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 
 
