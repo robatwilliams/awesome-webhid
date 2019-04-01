@@ -108,7 +108,7 @@ None yet.
 ## Ideas
 *Great idea, no time or no device? File an issue to share.*
 
-None yet.
+* Device explorer tool - Web tool for conveniently viewing device info, monitoring input reports, and sending output/feature reports; something in the style of [this one for Web Bluetooth](https://googlechrome.github.io/samples/web-bluetooth/device-info.html).
 
 
 ## Forums & discussion
