@@ -46,7 +46,7 @@ In development (Chromium) as of 29 March 2019:
 
 
 ## Blogs & articles
-None yet.
+* [Upcoming WebHID API - access Bluetooth/USB HID devices in web applications](https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html) - an introduction to WebHID with an example showing how to open, listen for input and send output to a device. 
 
 
 ## Talks & videos
