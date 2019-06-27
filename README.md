@@ -26,9 +26,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 
 ## Status
-In development (Chromium) as of 14 May 2019:
-* Target version 77 (branch point 25 July, estimated stable release 10 September).
-* Release version 80 (branch point post-October, estimated stable post-December).
+In development (Chromium) as of 27 June 2019:
+* Target version 78 (branch point 5 September, estimated stable release 22 October).
+* Release version 81 (branch point post-October, estimated stable early 2020).
 
 
 ## Good to know
