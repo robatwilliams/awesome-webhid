@@ -26,9 +26,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 
 ## Status
-In development (Chromium) as of 27 June 2019:
-* Target version 78 (branch point 5 September, estimated stable release 22 October).
-* Release version 81 (branch point post-October, estimated stable early 2020).
+Always up to date information - [Chrome Platform Status: WebHID](https://chromestatus.com/features/5172464636133376)
+
+As of 22 August 2019:
+* Available [behind a flag](https://bugs.chromium.org/p/chromium/issues/detail?id=890096#c38) in Chrome 78.
+* Origin trials expected in version 80 (estimated stable early 2020).
+* Release expected in version 83.
 
 
 ## Good to know
