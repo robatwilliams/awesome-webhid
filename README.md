@@ -96,7 +96,8 @@ None yet.
 
 ## Real-world applications
 None yet.
-
+* [Rowing app](https://ergometer-space.org)
+Connect using usb canary to an ergometer start rowing.
 
 ## Inspiration from elsewhere
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
