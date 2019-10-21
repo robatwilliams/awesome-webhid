@@ -95,7 +95,6 @@ None yet.
 
 
 ## Real-world applications
-None yet.
 * [Rowing app](https://ergometer-space.org)
 Connect using usb canary to an ergometer start rowing.
 
