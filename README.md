@@ -91,7 +91,6 @@ None yet.
 
 
 ## Demos, experiments & hacks
-None yet.
 [blink1-webhid](https://todbot.github.io/blink1-webhid/) - Simple example of using WebHID with [blink(1) USB lights](https://blink1.thingm.com/)
 
 
