@@ -60,9 +60,9 @@ None yet.
 ## Devices
 *Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
 
+* [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and [node-blink1](https://github.com/sandeepmistry/node-blink1)).
 
 ### Candidates
-* [Blink(1)](https://blink1.thingm.com) - notification light (see [node-blink1](https://github.com/sandeepmistry/node-blink1))
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see [blinkstick-node](https://github.com/arvydas/blinkstick-node))
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
 * [Espruino Pico](https://www.espruino.com/Pico) board - has an [USB HID mode](https://www.espruino.com/USB), might also be useful as an emulator?
