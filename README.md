@@ -62,6 +62,7 @@ None yet.
 
 * [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and [node-blink1](https://github.com/sandeepmistry/node-blink1)).
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and [blinkstick-node](https://github.com/arvydas/blinkstick-node))
+* [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - USB/Bluetooth Gamepads (see demos section, and [WebHID-DS4](https://github.com/TheBITLINK/WebHID-DS4))
 
 
 ### Candidates
@@ -94,6 +95,7 @@ None yet.
 ## Demos, experiments & hacks
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1) USB light.
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
+* [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
 
 
 ## Real-world applications
