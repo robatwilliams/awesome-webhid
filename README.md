@@ -63,8 +63,8 @@ None yet.
 
 * [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1)).
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and prior art [blinkstick-node](https://github.com/arvydas/blinkstick-node))
-* [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
 * [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos section, and prior art [node-elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck))
+* [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
 
 
 ### Candidates
@@ -100,8 +100,8 @@ None yet.
 
 ## Demos, experiments & hacks
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1) USB light.
-* [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 * [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via WIP enhancement to [node-elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
+* [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 
 
 ## Real-world applications
