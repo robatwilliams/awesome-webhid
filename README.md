@@ -100,7 +100,7 @@ None yet.
 
 ## Demos, experiments & hacks
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1) USB light.
-* [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via WIP enhancement to [node-elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
+* [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via [WIP enhancement to node-elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 
 
