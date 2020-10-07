@@ -28,12 +28,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Status
 Always up to date information - [Chrome Platform Status: WebHID](https://chromestatus.com/features/5172464636133376)
 
-As of 19 September 2019:
-* Available [behind a flag](https://bugs.chromium.org/p/chromium/issues/detail?id=890096#c38) in version 78.
-  * Version 78 is currently [in beta](https://www.google.com/chrome/beta)
-* Origin trials expected in version 80 (estimated stable early 2020).
-* Release expected in version 83.
-
+As of 7 October 2020:
+* Origin trials is started in version 86 (https://developers.chrome.com/origintrials/#/trials/active)
 
 ## Good to know
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
