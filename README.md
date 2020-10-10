@@ -16,6 +16,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Devices](#devices)
 - [Tools](#tools)
 - [Bluetooth, USB, & HID reference](#bluetooth-usb--hid-reference)
+- [Libraries](#libraries)
 - [Demos, experiments & hacks](#demos-experiments--hacks)
 - [Real-world applications](#real-world-applications)
 - [Inspiration from elsewhere](#inspiration-from-elsewhere)
@@ -56,16 +57,18 @@ None yet.
 ## Devices
 *Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
 
-* [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and [blinkstick-node](https://github.com/arvydas/blinkstick-node))
+* [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1)).
+* [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and prior art [blinkstick](https://github.com/arvydas/blinkstick-node))
+* [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos section, and prior art [elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck))
+* [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
 
 
 ### Candidates
-* [Blink(1)](https://blink1.thingm.com) - notification light (see [node-blink1](https://github.com/sandeepmistry/node-blink1))
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
 * [Espruino Pico](https://www.espruino.com/Pico) board - has an [USB HID mode](https://www.espruino.com/USB), might also be useful as an emulator?
 * Jabra headsets (see [Standard USB HID Specification](https://developer.jabra.com/site/global/sdks/web/index.gsp))
 * Nintendo Switch Pro Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
-* Sony DualShock 3 & 4<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
+* Sony DualShock 3<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 * [X-keys](https://xkeys.com/xkeys.html) - keyboards, switches, analog controls, and pedals (see [HID Data Reports](https://xkeys.com/software/developer/developerhiddatareports.html), [Integration](https://xkeys.com/software/developer/developerintegration.html), [xkeys](https://github.com/SuperFlyTV/xkeys), [node-xkeys](https://github.com/macoss/node-xkeys))
 * Xbox Wireless Controller<sup>[(ref)](https://chromium.googlesource.com/chromium/src.git/+/05ac99d21920fec606ac1e360a2534921938cc85)</sup>
 
@@ -87,7 +90,13 @@ None yet.
 * [Understanding HID report descriptors](https://who-t.blogspot.com/2018/12/understanding-hid-report-descriptors.html) - Understanding devices' descriptions of themselves.
 
 
+## Libraries
+* [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
+
+
 ## Demos, experiments & hacks
+* [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
+* [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via [WIP enhancement to elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 
 
