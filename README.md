@@ -60,8 +60,8 @@ None yet.
 * [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1)).
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and prior art [blinkstick](https://github.com/arvydas/blinkstick-node))
 * [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos section, and prior art [elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck))
+* [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting
 * [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
-* [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting 
 
 
 ### Candidates
