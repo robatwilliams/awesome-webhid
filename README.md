@@ -27,10 +27,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 
 ## Status
-Always up to date information - [Chrome Platform Status: WebHID](https://chromestatus.com/features/5172464636133376)
-
-As of 7 October 2020:
-* [Origin trial](https://developers.chrome.com/origintrials/#/view_trial/1074108511127863297) in version 86
+Enabled by default since Chrome 89 (March 2021).
 
 ## Good to know
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
