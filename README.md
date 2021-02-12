@@ -96,6 +96,7 @@ None yet.
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
 * [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via [WIP enhancement to elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
+* [bramus/webhid-elgato-stream-deck-daft-punk-soundboard](https://github.com/bramus/webhid-elgato-stream-deck-daft-punk-soundboard) - Daft Punk Soundboard, with ability to connect a Elgato Stream Deck using WebHID to control the soundboard.
 
 
 ## Real-world applications
