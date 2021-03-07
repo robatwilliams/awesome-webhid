@@ -90,7 +90,7 @@ None yet.
 
 ## Libraries
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
-* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) - using the Elgato Stream Deck.
+* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) - using the Elgato Stream Deck (see demos).
 
 
 ## Demos, experiments & hacks
