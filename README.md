@@ -56,7 +56,7 @@ None yet.
 
 * [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1)).
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and prior art [blinkstick](https://github.com/arvydas/blinkstick-node))
-* [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos section, and prior art [elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck))
+* [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos, and libraries)
 * [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting
 * [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
 
@@ -90,11 +90,12 @@ None yet.
 
 ## Libraries
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
+* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) - using the Elgato Stream Deck (see demos).
 
 
 ## Demos, experiments & hacks
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
-* [Elgato StreamDeck](https://streamdeck.julusian.dev/) - using the Elgato Stream Deck (via [WIP enhancement to elgato-stream-deck](https://github.com/Lange/node-elgato-stream-deck/pull/70)).
+* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 
 
