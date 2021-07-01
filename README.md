@@ -102,6 +102,8 @@ None yet.
 ## Real-world applications
 * [Ergometer Space](https://ergometer-space.org) - Track your indoor rowing exercise, alone or with other online users.
 * [Kraken Kitty Edition Controller](https://sarahemm.github.io/razerkitty-webhid/) - Control the LED lighting on your Razer Kraken Kitty Edition headset.
+* [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap)).
+
 
 ## Inspiration from elsewhere
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
