@@ -59,7 +59,7 @@ None yet.
 * [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos, and libraries)
 * [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting
 * [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
-
+* [Nintendo Joy-Cons](https://www.nintendo.com/store/hardware/joy-con-and-controllers/) (see demos, and libraries)
 
 ### Candidates
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
@@ -91,12 +91,15 @@ None yet.
 ## Libraries
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
 * [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) - using the Elgato Stream Deck (see demos).
+* [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - using Nintendo Joy-Cons.
 
 
 ## Demos, experiments & hacks
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
 * [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
+* [tomayac/chrome-dino-webhid](https://github.com/tomayac/chrome-dino-webhid) - using Nintendo Joy-Cons.
+* [tomayac/joy-con-webhid/demo/](https://tomayac.github.io/joy-con-webhid/demo/) - using Nintendo Joy-Cons.
 
 
 ## Real-world applications
