@@ -60,6 +60,7 @@ None yet.
 * [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting
 * [Sony DualShock 4](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/) - controller for PlayStation 4 (see libraries section)
 * [Nintendo Joy-Cons](https://www.nintendo.com/store/hardware/joy-con-and-controllers/) (see demos, and libraries)
+* [PlayStation Buzz](https://jackcarey.co.uk/posts/buzz-controller.js/) (see demo)
 
 ### Candidates
 * [Cleware](http://www.cleware-shop.de/en_US) - sensors, switches, and lights (see [clewarecontrol](https://www.vanheusden.com/clewarecontrol/), [sniner/cleware](https://github.com/sniner/cleware))
@@ -100,6 +101,7 @@ None yet.
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
 * [tomayac/chrome-dino-webhid](https://github.com/tomayac/chrome-dino-webhid) - using Nintendo Joy-Cons.
 * [tomayac/joy-con-webhid/demo/](https://tomayac.github.io/joy-con-webhid/demo/) - using Nintendo Joy-Cons.
+* [PlayStation Buzz](https://jackcarey.co.uk/buzz-controller.js/)
 
 
 ## Real-world applications
