@@ -105,6 +105,7 @@ None yet.
 ## Real-world applications
 * [Ergometer Space](https://ergometer-space.org) - Track your indoor rowing exercise, alone or with other online users.
 * [Kraken Kitty Edition Controller](https://sarahemm.github.io/razerkitty-webhid/) - Control the LED lighting on your Razer Kraken Kitty Edition headset.
+* [Nreal Air Activation](https://activation.nreal.ai/en/nreal-air-upgrade.html) - Activate and update firmware on the Nreal Air glasses.
 * [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap)).
 
 
