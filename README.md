@@ -95,6 +95,7 @@ None yet.
 
 
 ## Demos, experiments & hacks
+* [WebHID Explorer](https://paulirish.github.io/webhid-explorer/) - Lil' demo web tool for conveniently viewing device info, monitoring input reports, and sending output/feature reports.
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
 * [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck)).
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) - using the BlinkStick Strip.
@@ -117,12 +118,6 @@ None yet.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) - Using WebUSB.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
-
-
-## Ideas
-*Great idea, no time or no device? File an issue to share.*
-
-* Device explorer tool - Web tool for conveniently viewing device info, monitoring input reports, and sending output/feature reports; something in the style of [this one for Web Bluetooth](https://googlechrome.github.io/samples/web-bluetooth/device-info.html).
 
 
 ## Forums & discussion
