@@ -103,6 +103,7 @@ None yet.
 
 
 ## Real-world applications
+* [AULA S35 PRO Web Driver](https://sahajjain01.github.io/aula-s35pro-web/) - Configure DPI, buttons, macros and RGB lighting of the AULA S35 PRO gaming mouse (see [SahajJain01/aula-s35pro-web](https://github.com/SahajJain01/aula-s35pro-web)).
 * [Ergometer Space](https://ergometer-space.org) - Track your indoor rowing exercise, alone or with other online users.
 * [Kraken Kitty Edition Controller](https://sarahemm.github.io/razerkitty-webhid/) - Control the LED lighting on your Razer Kraken Kitty Edition headset.
 * [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap)).
